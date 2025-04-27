@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Hotspots>
+  <Hotspot>
+    <Assembly>Lab12</Assembly>
+    <Class>Lab12.Program</Class>
+    <MethodName>WorkingFunction(...)</MethodName>
+    <ShortName />
+    <Line>140</Line>
+    <FileIndex>0</FileIndex>
+    <Metrics>
+      <Metric>
+        <Name>Cyclomatic complexity</Name>
+        <Exceeded>true</Exceeded>
+        <Value>49</Value>
+      </Metric>
+    </Metrics>
+  </Hotspot>
+</Hotspots>
